@@ -15,7 +15,7 @@
 	"devDependencies": {
 		"@cloudflare/workers-tsconfig": "workspace:*",
 		"miniflare": "workspace:*",
-		"undici": "^5.28.4",
+		"undici": "^6.11.1",
 		"wrangler": "workspace:*"
 	},
 	"engines": {
