@@ -9,7 +9,7 @@
 	},
 	"devDependencies": {
 		"@cloudflare/workers-tsconfig": "workspace:*",
-		"@cloudflare/workers-types": "^4.20241011.0",
+		"@cloudflare/workers-types": "^4.20241018.0",
 		"undici": "^6.11.1",
 		"wrangler": "workspace:*"
 	},
