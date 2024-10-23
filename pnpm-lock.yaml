@@ -124,8 +124,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -136,8 +136,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -157,8 +157,8 @@ importers:
         specifier: ^1.1.6
         version: 1.1.6
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       vitest:
         specifier: catalog:default
         version: 2.1.1(@types/node@20.8.3)(@vitest/ui@1.6.0)(msw@2.3.0(typescript@5.5.4))(supports-color@9.2.2)
@@ -178,8 +178,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -193,8 +193,8 @@ importers:
         specifier: ^2.2.0
         version: 2.2.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -208,8 +208,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -226,8 +226,8 @@ importers:
         specifier: ^8.2.2
         version: 8.2.2
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -241,8 +241,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -257,8 +257,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -278,8 +278,8 @@ importers:
         specifier: ^7.1.0
         version: 7.1.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
 
   fixtures/isomorphic-random-example: {}
 
@@ -325,8 +325,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -340,8 +340,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -364,8 +364,8 @@ importers:
         specifier: ^1.1.1
         version: 1.1.1
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -376,8 +376,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -391,8 +391,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -413,8 +413,8 @@ importers:
         specifier: workspace:*
         version: link:../pages-plugin-example
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -425,8 +425,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -437,8 +437,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -452,8 +452,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -464,8 +464,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -495,8 +495,8 @@ importers:
         specifier: workspace:*
         version: link:../pages-plugin-example
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -510,8 +510,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/miniflare
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -525,8 +525,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -537,8 +537,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -549,8 +549,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -561,8 +561,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -573,8 +573,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -585,8 +585,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -597,8 +597,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -624,8 +624,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -643,8 +643,8 @@ importers:
         specifier: ^8.2.2
         version: 8.2.2
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -724,8 +724,8 @@ importers:
         specifier: workspace:^
         version: link:../../packages/workers-tsconfig
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -750,8 +750,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -765,8 +765,8 @@ importers:
         specifier: ^4.20241018.0
         version: 4.20241018.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../../packages/wrangler
@@ -801,8 +801,8 @@ importers:
         specifier: ^5.0.1
         version: 5.0.1
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
 
   packages/create-cloudflare:
     devDependencies:
@@ -912,11 +912,11 @@ importers:
         specifier: ^0.22.0
         version: 0.22.0
       semver:
-        specifier: ^7.6.0
-        version: 7.6.0
+        specifier: ^7.6.1
+        version: 7.6.1
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       vite-tsconfig-paths:
         specifier: ^4.0.8
         version: 4.2.0(typescript@5.5.4)(vite@5.1.8(@types/node@20.8.3))
@@ -1082,8 +1082,8 @@ importers:
         specifier: ^1.1.0
         version: 1.1.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       workerd:
         specifier: 1.20241018.1
         version: 1.20241018.1
@@ -1268,8 +1268,8 @@ importers:
         specifier: ^3.3.1
         version: 3.3.1(patch_hash=b5gffumfuckaq3c77sda2gdfuq)
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       wrangler:
         specifier: workspace:*
         version: link:../wrangler
@@ -1366,8 +1366,8 @@ importers:
         specifier: workspace:*
         version: link:../miniflare
       semver:
-        specifier: ^7.6.0
-        version: 7.6.0
+        specifier: ^7.6.1
+        version: 7.6.1
       wrangler:
         specifier: workspace:*
         version: link:../wrangler
@@ -1409,8 +1409,8 @@ importers:
         specifier: ^5.5.2
         version: 5.5.2
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       vitest:
         specifier: catalog:default
         version: 2.1.1(@types/node@20.8.3)(@vitest/ui@1.6.0)(msw@2.3.0(typescript@5.5.4))(supports-color@9.2.2)
@@ -1579,8 +1579,8 @@ importers:
         specifier: ^3.12.8
         version: 3.12.10
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       vite-plugin-rewrite-all:
         specifier: ^1.0.1
         version: 1.0.1(vite@5.1.8(@types/node@20.12.12))
@@ -1947,8 +1947,8 @@ importers:
         specifier: ^1.5.0
         version: 1.5.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
       update-check:
         specifier: ^1.5.4
         version: 1.5.4
@@ -2001,8 +2001,8 @@ importers:
         specifier: ^2.2.0
         version: 2.2.0
       undici:
-        specifier: ^6.12.0
-        version: 6.12.0
+        specifier: ^6.13.0
+        version: 6.13.0
 
 packages:
 
@@ -7816,6 +7816,11 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
+  semver@7.6.1:
+    resolution: {integrity: sha512-f/vbBsu+fOiYt+lmwZV0rVwJScl46HppnOA1ZvIuBWKOTlllpyJ3bfVax76/OrhCH38dyxoDIA8K7uB963IYgA==}
+    engines: {node: '>=10'}
+    hasBin: true
+
   send@0.18.0:
     resolution: {integrity: sha512-qqWzuOjSFOuqPjFe4NOsMLafToQQwBSOEpS+FwEt3A2V3vKubTquT3vmLTQpFgMXp8AlFWFuP1qKaJZOtPpVXg==}
     engines: {node: '>= 0.8.0'}
@@ -8508,8 +8513,8 @@ packages:
     resolution: {integrity: sha512-72RFADWFqKmUb2hmmvNODKL3p9hcB6Gt2DOQMis1SEBaV6a4MH8soBvzg+95CYhCKPFedut2JY9bMfrDl9D23g==}
     engines: {node: '>=14.0'}
 
-  undici@6.12.0:
-    resolution: {integrity: sha512-d87yk8lqSFUYtR5fTFe2frpkMIrUEz+lgoJmhcL+J3StVl+8fj8ytE4lLnJOTPCE12YbumNGzf4LYsQyusdV5g==}
+  undici@6.13.0:
+    resolution: {integrity: sha512-Q2rtqmZWrbP8nePMq7mOJIN98M0fYvSgV89vwl/BQRT4mDOeY2GXZngfGpcBBhtky3woM7G24wZV3Q304Bv6cw==}
     engines: {node: '>=18.0'}
 
   unenv-nightly@2.0.0-20240919-125358-9a64854:
@@ -9390,7 +9395,7 @@ snapshots:
       outdent: 0.5.0
       prettier: 2.7.1
       resolve-from: 5.0.0
-      semver: 7.6.0
+      semver: 7.6.1
 
   '@changesets/assemble-release-plan@6.0.0':
     dependencies:
@@ -9399,7 +9404,7 @@ snapshots:
       '@changesets/get-dependents-graph': 2.0.0
       '@changesets/types': 6.0.0
       '@manypkg/get-packages': 1.1.3
-      semver: 7.6.0
+      semver: 7.6.1
 
   '@changesets/changelog-git@0.2.0':
     dependencies:
@@ -9443,7 +9448,7 @@ snapshots:
       p-limit: 2.3.0
       preferred-pm: 3.0.3
       resolve-from: 5.0.0
-      semver: 7.6.0
+      semver: 7.6.1
       spawndamnit: 2.0.0
       term-size: 2.2.1
       tty-table: 4.2.3
@@ -9468,7 +9473,7 @@ snapshots:
       '@manypkg/get-packages': 1.1.3
       chalk: 2.4.2
       fs-extra: 7.0.1
-      semver: 7.6.0
+      semver: 7.6.1
 
   '@changesets/get-github-info@0.6.0(encoding@0.1.13)':
     dependencies:
@@ -10124,7 +10129,7 @@ snapshots:
       '@babel/traverse': 7.24.5
       '@babel/types': 7.24.5
       prettier: 3.2.5
-      semver: 7.6.0
+      semver: 7.6.1
     optionalDependencies:
       '@vue/compiler-sfc': 3.3.4
     transitivePeerDependencies:
@@ -10260,7 +10265,7 @@ snapshots:
       nopt: 5.0.0
       npmlog: 5.0.1
       rimraf: 3.0.2
-      semver: 7.6.0
+      semver: 7.6.1
       tar: 6.1.13
     transitivePeerDependencies:
       - encoding
@@ -10905,7 +10910,7 @@ snapshots:
       js-yaml: 4.1.0
       ora: 4.1.1
       rimraf: 3.0.2
-      semver: 7.6.0
+      semver: 7.6.1
       update-check: 1.5.4
 
   '@types/argparse@1.0.38': {}
@@ -11132,7 +11137,7 @@ snapshots:
       graphemer: 1.4.0
       ignore: 5.3.1
       natural-compare: 1.4.0
-      semver: 7.5.4
+      semver: 7.6.0
       ts-api-utils: 1.0.3(typescript@5.5.4)
     optionalDependencies:
       typescript: 5.5.4
@@ -11152,7 +11157,7 @@ snapshots:
       graphemer: 1.4.0
       ignore: 5.3.1
       natural-compare: 1.4.0
-      semver: 7.5.4
+      semver: 7.6.0
       ts-api-utils: 1.0.3(typescript@5.5.4)
     optionalDependencies:
       typescript: 5.5.4
@@ -11223,7 +11228,7 @@ snapshots:
       debug: 4.3.6(supports-color@9.2.2)
       globby: 11.1.0
       is-glob: 4.0.3
-      semver: 7.6.0
+      semver: 7.6.1
       ts-api-utils: 1.0.3(typescript@5.5.4)
     optionalDependencies:
       typescript: 5.5.4
@@ -11239,7 +11244,7 @@ snapshots:
       '@typescript-eslint/types': 6.10.0
       '@typescript-eslint/typescript-estree': 6.10.0(typescript@5.5.4)
       eslint: 8.49.0
-      semver: 7.6.0
+      semver: 7.6.1
     transitivePeerDependencies:
       - supports-color
       - typescript
@@ -11253,7 +11258,7 @@ snapshots:
       '@typescript-eslint/types': 6.10.0
       '@typescript-eslint/typescript-estree': 6.10.0(typescript@5.5.4)
       eslint: 8.57.0
-      semver: 7.6.0
+      semver: 7.6.1
     transitivePeerDependencies:
       - supports-color
       - typescript
@@ -11870,7 +11875,7 @@ snapshots:
 
   builtins@5.0.1:
     dependencies:
-      semver: 7.6.0
+      semver: 7.6.1
 
   bundle-name@3.0.0:
     dependencies:
@@ -12180,7 +12185,7 @@ snapshots:
       js-string-escape: 1.0.1
       lodash: 4.17.21
       md5-hex: 3.0.1
-      semver: 7.6.0
+      semver: 7.6.1
       well-known-symbols: 2.0.0
 
   concurrently@8.2.2:
@@ -14528,7 +14533,7 @@ snapshots:
 
   node-abi@3.62.0:
     dependencies:
-      semver: 7.6.0
+      semver: 7.6.1
     optional: true
 
   node-fetch@2.6.11(encoding@0.1.13):
@@ -14603,7 +14608,7 @@ snapshots:
     dependencies:
       execa: 6.1.0
       parse-package-name: 1.0.0
-      semver: 7.6.0
+      semver: 7.6.1
       validate-npm-package-name: 4.0.0
 
   object-assign@4.1.1: {}
@@ -14830,7 +14835,7 @@ snapshots:
       got: 12.6.1
       registry-auth-token: 5.0.2
       registry-url: 6.0.1
-      semver: 7.6.0
+      semver: 7.6.1
 
   packet-reader@1.0.0: {}
 
@@ -15602,6 +15607,8 @@ snapshots:
     dependencies:
       lru-cache: 6.0.0
 
+  semver@7.6.1: {}
+
   send@0.18.0(supports-color@9.2.2):
     dependencies:
       debug: 2.6.9(supports-color@9.2.2)
@@ -16341,7 +16348,7 @@ snapshots:
     dependencies:
       '@fastify/busboy': 2.1.1
 
-  undici@6.12.0: {}
+  undici@6.13.0: {}
 
   unenv-nightly@2.0.0-20240919-125358-9a64854:
     dependencies:
@@ -16561,7 +16568,7 @@ snapshots:
     dependencies:
       '@volar/typescript': 2.4.0-alpha.18
       '@vue/language-core': 2.0.29(typescript@5.5.4)
-      semver: 7.6.0
+      semver: 7.6.1
       typescript: 5.5.4
 
   w3c-hr-time@1.0.2:
