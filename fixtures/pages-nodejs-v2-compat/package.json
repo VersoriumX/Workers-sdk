@@ -13,7 +13,7 @@
 	},
 	"devDependencies": {
 		"@cloudflare/workers-tsconfig": "workspace:^",
-		"undici": "^6.13.0",
+		"undici": "^6.19.2",
 		"wrangler": "workspace:*"
 	},
 	"engines": {
